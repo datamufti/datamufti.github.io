@@ -10,5 +10,7 @@ Forecasting, Causal ML, RL, Optimization, Aviation, Autonomous Mobility -->
 500 lb Deadlift, A clean 90-degree pushup, One-arm Chin-up on both sides -->
 
 ## Contact
-0x55 0x2b 0x31 0x46 0x34 0x45 0x37 [talalmufti@gmail.com](mailto:talalmufti@gmail.com)
 
+📧 [talalmufti@gmail.com](mailto:talalmufti@gmail.com)
+
+<i style='font-size:24px' class='fab'>&#xf0e1;</i> https://www.linkedin.com/in/talalmufti/
