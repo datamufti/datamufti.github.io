@@ -13,4 +13,3 @@ Forecasting, Causal ML, RL, Optimization, Aviation, Autonomous Mobility -->
 
 📧 [talalmufti@gmail.com](mailto:talalmufti@gmail.com)
 
-<i style='font-size:24px' class='fab'>&#xf0e1;</i> https://www.linkedin.com/in/talalmufti/
